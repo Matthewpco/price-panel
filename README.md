@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Matthewpco/Rogue-Pickings/master/img/rp-ss.png)
+![](https://raw.githubusercontent.com/Matthewpco/price-panel/master/img/PP-SS.png)
 
 # This is a pricing panel for prospective clients
 
@@ -22,3 +22,5 @@
 - U/I Best Practices
 - Mobile First Responsive Design
 <br>
+
+![](https://raw.githubusercontent.com/Matthewpco/price-panel/master/img/pp-mobile-ss.png)
